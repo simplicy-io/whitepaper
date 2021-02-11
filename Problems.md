@@ -8,10 +8,17 @@ Some modern payment gateways, like Paypal, Stripe and Adyen, are finding ways to
 
 Payment gateways have long been rebuked by retailers for their high processing costs. The average rate today is 2.9% + 30c per transaction for online, or card-not-present, transactions. These costs have slowly increased for retailers, while the underlying cost and risk associated with processing these payments have decreased for gateways.
 
+Merchants have to pay up to 15(!) different types of fees in order to accept payments from their customers.
+
+- Transaction fees are somewhere between 2% and 6% per transaction plus a fixed fee, which is between USD 0.1 and USD 0.7. Example: every time someone makes a transaction for USD 10, the merchant on average pays => 10*((0.02+0.06)/2) + ((0.1+0.7)/2)) = USD 0.8 for banks, credit card associations, payment gateways and processors.
+- Retrieval Request Fee and Chargeback Fee are paid when someone claims for a chargeback. The best-known payment gateways such as PayPal and Stripe charge merchants USD 15 for chargeback.
+- Flat fees consist of such fees as payments to buy the terminal device for retail merchants, PCI fees paid to Payment Card industry for compliance OR noncompliance and others, such as Annual fees, Monthly fees, Monthly minimum fees, IRS reporting fees, network fees, etc.
+- Occasional fees that consist of Address Verification Service (AVS), VoiceAuthorization Fee (VAF), Batch Fee, and NFS fee.
+
 ### Payment processors keep their fee  structure hidden
 Merchant processing fees generally fall into one of two categories: 
-(1) wholesale fees, and 
-(2) markups. 
+- (1) wholesale fees, and 
+- (2) markups. 
 
 Wholesale fees are the interchange rates set by issuing banks and credit card companies.
 They are consistent regardless of which gateway you choose, so don’t waste your time trying to shop around for lower interchange rates. 
@@ -31,3 +38,8 @@ Make sure you read the fine print in your gateway contracts, to better understan
 ### No recurring payments
 A major shift is taking place in our economy, from a pay-per-product model to a subscription-based model. While recurring revenue provides businesses more steady cash flows, it requires companies to better manage a direct, complex, responsive, multi-channel relationship with its customers. Customers are absolutely key in this relationship, and rather than putting the focus of the business on the “product” or the “transaction,” subscription economy companies live and die by their ability to monetize long-term relationships rather than shipping products.
 This poses a major challenge to payment gateways as well. Subscription-based companies typically see between 15-20% of recurring payments fail due to expired or canceled credit and debit cards. This is known in the business as “incidental churn.” Companies like Recurly have sprouted up to help businesses combat churn, but the fact is, cards are not an optimal payment method for recurring payments. An interesting solution some gateways are employing, including Sezzle and PayPal, is to enable customers to pay businesses directly from their bank accounts, which significantly reduces churn due to the fact that most people rarely change checking accounts. Many gateways are still behind the times, though, and for the subscription economy to continue growing, recurring payments must get better.
+
+
+### Transtion settlement
+Costly and complex transaction settlements with up to 16 (!) steps to accept and settle the transaction
+The picture below describes the payment process with rejection handling in 8 steps regardless of if it is in a store, e-commerce or m-commerce. The process is complex and includes 8 additional steps to settle the transaction. In total, you have 16 steps for money to arrive from client’s bank account to merchant’s bank account.
