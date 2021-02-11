@@ -4,5 +4,10 @@ An e-commerce platform is an application which acts as a trading bridge between 
 <center><img src="https://raw.githubusercontent.com/simplicy-io/whitepaper/main/imrs.webp" alt="How singles day became biggest shopping spree ever quicktake" width=50% height=50% />
 Figure 1. Onine Shopping on Alibaba</center>
 <br/>
+
 Internet electronic payment is an indispensable part of e-commerce transactions. Customers select products from the merchant via the Internet and purchase with an electronic payment. Credit or debit cards are accepted by most e-commerce platforms. We take a MasterCard payment as an example. There are several steps that must be undertaken to complete a payment, including authorization, clearing and settlement. The processes involve a customer, an e-commerce platform, a customer’s bank, the MasterCard company or MasterCard system, a MasterCard settlement bank, a merchant’s bank, and result in nearly 20 transactions or messages being exchanged among these participants[3].
+<center><img src="https://github.com/simplicy-io/whitepaper/raw/main/Card%20Payments.png" alt"Card payments, 16 steps for money to arrive from client’s bank account to merchant’s bank account."/>
+ Figure 2. Card payment</center>
+
+
 E-Commerce has the following three main features and we take Amazon.com as an example. (1) High transaction frequency. Amazon has an average 50 sales/second and had 2.2 billion sales
