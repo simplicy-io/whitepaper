@@ -2,7 +2,7 @@
 
 For most ecommerce retailers, payment gateways are seen as a necessary evil. Yes, they help you accept payments from your customers, but they’re not at the top of your list of organizations you like working with. They’ve developed a reputation of being sleazy, money-grubbing middlemen that take advantage of retailers, both big and small.
 
-Some modern payment gateways, like Paypal, Stripe and Adyen, are finding ways to create more value for retailers and they’ve developed good reputations because of that. But problems remain. And if payment gateways want to shake their negative image within the e-commerce community, these are the five things they should focus on improving first.
+Some modern payment gateways, like Paypal, Stripe and Adyen, are finding ways to create more value for retailers and they’ve developed good reputations because of that. But problems remain. 
 
 ### High fees merchants
 
