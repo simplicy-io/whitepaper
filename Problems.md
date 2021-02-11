@@ -40,6 +40,6 @@ A major shift is taking place in our economy, from a pay-per-product model to a 
 This poses a major challenge to payment gateways as well. Subscription-based companies typically see between 15-20% of recurring payments fail due to expired or canceled credit and debit cards. This is known in the business as “incidental churn.” Companies like Recurly have sprouted up to help businesses combat churn, but the fact is, cards are not an optimal payment method for recurring payments. An interesting solution some gateways are employing, including Sezzle and PayPal, is to enable customers to pay businesses directly from their bank accounts, which significantly reduces churn due to the fact that most people rarely change checking accounts. Many gateways are still behind the times, though, and for the subscription economy to continue growing, recurring payments must get better.
 
 
-### Transtion settlement
+### Transation settlement
 Costly and complex transaction settlements with up to 16 (!) steps to accept and settle the transaction
 The picture below describes the payment process with rejection handling in 8 steps regardless of if it is in a store, e-commerce or m-commerce. The process is complex and includes 8 additional steps to settle the transaction. In total, you have 16 steps for money to arrive from client’s bank account to merchant’s bank account.
