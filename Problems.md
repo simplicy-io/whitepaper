@@ -4,7 +4,7 @@ For most ecommerce retailers, payment gateways are seen as a necessary evil. Yes
 
 Some modern payment gateways, like Paypal, Stripe and Adyen, are finding ways to create more value for retailers and they’ve developed good reputations because of that. But problems remain. And if payment gateways want to shake their negative image within the e-commerce community, these are the five things they should focus on improving first.
 
-### High fees merchants and crypto-currency transactions
+### High fees merchants
 
 Payment gateways have long been rebuked by retailers for their high processing costs. The average rate today is 2.9% + 30c per transaction for online, or card-not-present, transactions. These costs have slowly increased for retailers, while the underlying cost and risk associated with processing these payments have decreased for gateways.
 
