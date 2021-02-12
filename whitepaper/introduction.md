@@ -7,3 +7,7 @@ An e-commerce platform is an application which acts as a trading bridge between 
 
 E-Commerce has the following three main features and we take Amazon.com as an example. \(1\) High transaction frequency. Amazon has an average 50 sales/second and had 2.2 billion sales
 
+
+The global payment gateway market size is expected to reach USD 71.22 billion by 2027 registering a CAGR of 21.5% from 2020 to 2027, according to a new report by
+Grand View Research, Inc. The market growth can be attributed to the increasing use ofthese billing methods across the globe. Growing usage of various digital channels for
+payments has also been driving the market growth.
